@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\danie\source\repos\assignment 6\assignment 6\main.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\danie\source\repos\assignment 6\assignment 6\main.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment 6.vcxproj -> C:\Users\danie\source\repos\Assignment 6\Debug\Assignment 6.exe

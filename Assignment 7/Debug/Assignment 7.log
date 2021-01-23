@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\danie\source\repos\assignment 7\assignment 7\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\source\repos\assignment 7\assignment 7\main.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Assignment 7.vcxproj -> C:\Users\danie\source\repos\Assignment 7\Debug\Assignment 7.exe
